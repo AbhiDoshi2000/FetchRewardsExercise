@@ -1,8 +1,7 @@
 # Fetch Rewards Coding Exercise
 
 ## Description
-A native Android app in Kotlin using Jetpack Compose and MVVM architecture that fetches data from a JSON endpoint, filters and sorts it, and displays it grouped by `listId`. The app features an initial screen with four square flashcards (one for each list: List 1, List 2, List 3, List 4), clickable to view detailed, sorted items for each list, with scrollbars, search bars, and a professional purple-gray color scheme. Items are displayed in a vertical list \
-of cards with centered text, allowing single-item selection with a highlighted 2dp purple border and tick icon on the rightmost side. The app supports searching for lists and items, displaying "No items found!" when no matches are found.
+A native Android app in Kotlin using Jetpack Compose and MVVM architecture that fetches data from a JSON endpoint, filters and sorts it, and displays it grouped by `listId`. The app features an initial screen with four square flashcards (one for each list: List 1, List 2, List 3, List 4), clickable to view detailed, sorted items for each list, with scrollbars, search bars, and a professional purple-gray color scheme. Items are displayed in a vertical list of cards with centered text, allowing single-item selection with a highlighted 2dp purple border and tick icon on the rightmost side. The app supports searching for lists and items, displaying "No items found!" when no matches are found.
 
 ## Setup
 - Install Android Studio Ladybug (2024.2.1 or later)
